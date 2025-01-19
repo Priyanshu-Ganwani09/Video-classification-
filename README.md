@@ -1,1 +1,2 @@
-# Video-classification-
+# Video Classification Model with EfficientNetB0 
+Our  project harnesses the full potential of the EfficientNetB0 pretrained model and the TimeDistributed layer to effectively classify video frames into diverse categories. By leveraging these advanced techniques, our model is designed to excel in recognizing and categorizing video content with high accuracy and efficiency. The integration of EfficientNetB0, known for its optimal balance between performance and resource efficiency, ensures that the model can handle complex video data, making it suitable for a wide range of applications including activity recognition, surveillance, and content tagging.
